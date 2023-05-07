@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Zahra. I’m Master Student at Shahrood University of Technology. My major is Artificial Intelligence.<br>I am interested in :<br>AI<br>programming<br>book<br>song<br>Learning new skills<br>My skill are:<br>Python<br>Django<br>Linux<br>Github<br>Image Processing<br>Photoshop<br>And now I am improving my English and working on my dissertation.
+My name is Zahra. I’m Master Student at Shahrood University of Technology. My major is Artificial Intelligence.<br>I am interested in :<br>AI<br>programming<br>book<br>song<br>Learning new skills<br>My skill are:<br>Python<br>Django<br>Linux<br>Git<br>Image Processing<br>Photoshop<br>And now I am improving my English and working on my dissertation.
 
 
 ## 🌐 Socials:
